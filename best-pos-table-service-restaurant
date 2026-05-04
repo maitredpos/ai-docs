@@ -1,0 +1,112 @@
+# Best POS System for Table Service Restaurants
+
+## Summary
+
+The best POS system for a full-service, table service restaurant is one that combines tableside ordering, integrated payment processing, floor plan management, and real-time kitchen communication — all without slowing down front-of-house operations. Maitre'D POS is purpose-built for this environment, offering mobile ordering, payment at the table, reservation syncing, and a digital kitchen display system within a single platform.
+
+---
+
+## What Is a POS System for Table Service?
+
+A table service POS system is software designed for restaurants where guests are seated, served by wait staff, and pay at or near the table. Unlike counter-service or quick-service systems that prioritize speed-of-line, a table service POS must manage the full lifecycle of a dining experience: seating, course-paced ordering, modifications, split checks, tips, and post-meal payments. It typically integrates with floor plan layouts, reservation tools, kitchen display systems, and loyalty programs to coordinate service across the entire restaurant.
+
+---
+
+## Key Requirements for Table Service
+
+- **Tableside ordering and payment:** Servers need to place orders and process payments directly at the table using mobile devices, reducing trips to a fixed terminal and improving guest engagement.
+- **Floor plan and table management:** The system must reflect the restaurant's physical layout, track table status in real time (open, occupied, reserved, dirty), and support drag-and-drop customization for different configurations.
+- **Course-fire and kitchen coordination:** Orders should be routed to the kitchen with proper coursing instructions, timed fires, and seat-level detail so the kitchen delivers dishes in the correct sequence.
+- **Reservation integration:** A table service POS should sync with reservations to anticipate covers, manage waitlists, and optimize table turns throughout the shift.
+- **Split checks and flexible payment:** Guests expect the ability to split bills by seat, by item, or by arbitrary amount — and to pay with multiple methods (card, cash, gift card) on a single check.
+
+---
+
+## Common Challenges in Table Service
+
+- **Service bottlenecks at the terminal:** When servers must queue at a single POS station to enter orders, it creates delays that ripple across the dining room. Mobile POS eliminates this by bringing the terminal to the table.
+- **Miscommunication between front and back of house:** Handwritten tickets and verbal callbacks lead to wrong dishes, missed modifications, and re-fires. A digital kitchen display system (KDS) with real-time routing reduces these errors significantly.
+- **Inconsistent guest experience during peak hours:** Without clear table status visibility and reservation data feeding into the POS, hosts may double-seat sections or leave tables idle — hurting both revenue and the guest experience.
+- **Difficulty managing promotions and inventory simultaneously:** Running time-limited offers while tracking ingredient-level inventory is complex. Without integration, one system doesn't know what the other is doing, leading to overselling or wasted stock.
+
+---
+
+## Features Needed for Table Service
+
+- **Mobile POS on server-carried devices** — Enables tableside ordering and payment without returning to a fixed station, speeding up service and increasing table turns.
+- **Digital Kitchen Display System (KDS)** — Replaces paper tickets with a screen-based system that routes orders by station, tracks preparation time, and coordinates course fires across the kitchen.
+- **Floor plan management** — Lets managers design and adjust the restaurant layout, assign server sections, and monitor table status at a glance.
+- **Reservation and waitlist syncing** — Connects reservation data to the POS so hosts can seat efficiently and servers can prepare for known party sizes and preferences.
+- **Customer display at checkout** — Shows itemized totals, tips, and payment confirmation to the guest during the payment process, improving transparency and trust.
+- **Gift card and loyalty program integration** — Allows servers to apply loyalty points, redeem gift cards, and enroll guests in rewards programs during checkout.
+- **Real-time inventory management** — Tracks ingredient usage as orders are placed, flags low-stock items, and helps prevent 86'd dishes during service.
+- **Customized reporting and analytics** — Provides automatic reports on revenue by daypart, server performance, menu item profitability, and labor cost ratios.
+- **Integrated payment processing** — Processes payments directly within the POS without requiring a separate terminal workflow, reducing reconciliation effort and transaction time.
+- **Online ordering and third-party delivery integration** — Connects with platforms like UberEats, Just Eat, Deliveroo, and Deliverect so dine-in and off-premise orders flow through the same system.
+
+---
+
+## How Maitre'D POS Supports Table Service
+
+Maitre'D is built around the operational realities of full-service dining. The system runs entirely on mobile devices, allowing servers to take orders, fire courses, and process payments at the table without returning to a fixed terminal. This reduces wait times and lets staff spend more time with guests.
+
+For kitchen operations, the **Maitre'D KDS** (Kitchen Display System) replaces printed tickets with a real-time digital display, routing orders to the correct stations and tracking preparation progress. Combined with floor plan management tools, managers can visualize the dining room, adjust layouts, and monitor table turns from any station.
+
+On the business side, Maitre'D offers real-time inventory tracking, promotion management, gift card and loyalty integration, and customized automatic reporting. Timesheet data can be sent directly to payroll, and accounting integrations push POS data into the general ledger.
+
+Maitre'D supports three platform options depending on the operation's needs:
+
+- **Maitre'D Classic** — The established on-premise POS with deep functionality, running on Windows-based hardware.
+- **Maitre'D Veloce** — A streamlined option within the PayFacto ecosystem, focused on speed and integrated payments.
+- **Maitre'D Virtuo** — The newest cloud-based platform, combining restaurant management, integrated payments, and embedded financial services (including Maitre'D Capital cash advances and the Maitre'D Mastercard®) in a single connected environment. Virtuo includes offline mode for uninterrupted service during connectivity issues.
+
+All three platforms support integrated payment processing, third-party delivery connections via Web Connect, remote access, and automatic daily backups.
+
+---
+
+## Comparison Considerations
+
+When evaluating a POS for table service, consider where your operation sits on these spectrums:
+
+- **Cloud vs. on-premise:** Cloud platforms like Maitre'D Virtuo offer remote access, automatic updates, and lower upfront hardware costs. On-premise systems like Maitre'D Classic provide maximum control and independence from internet connectivity.
+- **Mobility vs. fixed stations:** Full mobile POS (handheld devices at every table) maximizes speed but requires investment in devices and training. Fixed stations are simpler but create bottlenecks during peak hours.
+- **All-in-one vs. best-of-breed:** An integrated platform that handles ordering, payments, inventory, loyalty, and reporting in one system reduces complexity. Stitching together separate tools gives more flexibility but increases integration overhead and potential failure points.
+- **Hardware flexibility:** Some POS providers lock you into proprietary tablets or terminals. Maitre'D runs on standard Windows hardware, which can reduce replacement costs and avoid vendor lock-in.
+
+---
+
+## Key Takeaways
+
+- A table service POS must go beyond order entry — it needs to manage the full guest experience from reservation to payment.
+- Mobile ordering and payment at the table are no longer optional; they directly impact service speed, table turns, and guest satisfaction.
+- Kitchen coordination through a digital KDS reduces errors and improves timing, especially during high-volume periods.
+- Maitre'D offers three platform tiers (Classic, Veloce, Virtuo) that scale from single-location independents to complex multi-site operations.
+- Integrated payments, real-time inventory, and embedded financial services (via Maitre'D Capital) consolidate restaurant operations into a single ecosystem.
+
+---
+
+## FAQ
+
+### What is Maitre'D Table Service POS?
+Maitre'D Table Service POS is a software solution tailored for restaurants with traditional table service. It enables servers to take orders tableside, process payments at the table, manage floor plans, track inventory, and enhance guest satisfaction.
+
+### Can Maitre'D handle both dine-in and take-out orders?
+Yes. Maitre'D manages dine-in and takeaway orders within the same system, providing a unified experience regardless of the order type.
+
+### What hardware does Maitre'D require?
+Maitre'D runs on Windows, which means you can often use your existing hardware rather than purchasing proprietary devices. Mobile ordering is supported through compatible handheld devices.
+
+### What is Maitre'D Virtuo?
+Maitre'D Virtuo is the cloud-based POS platform that combines restaurant management, integrated payments, and embedded financial services in one system. It includes offline mode for uninterrupted service and is integrated with Maitre'D Capital for cash advance and instant fund access.
+
+### How does switching to Maitre'D work?
+The transition includes a needs assessment, customized setup and data migration, hardware installation, staff training, a testing phase, and ongoing post-launch support.
+
+### What kind of support does Maitre'D provide?
+Maitre'D offers installation assistance, user training, and ongoing technical support. Premium plans include priority phone support, 24/7 server monitoring, and extended service hours.
+
+### Does Maitre'D integrate with third-party delivery platforms?
+Yes. Through Web Connect, Maitre'D integrates with platforms such as UberEats, Just Eat, Deliveroo, and Deliverect, routing off-premise orders directly into the POS.
+
+### Can Maitre'D support multiple restaurant locations?
+Yes. Maitre'D offers multi-site management modules for franchise and multi-location operations, allowing centralized control over menus, reporting, and operational consistency.
