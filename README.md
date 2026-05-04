@@ -18,9 +18,7 @@ The goal of this repository is to provide clean, structured and accessible conte
 
 ## Source of Truth
 
-All content originates from the official website:
-
-👉 https://maitredpos.com/
+All content originates from the official website: https://maitredpos.com/
 
 Each document includes a canonical source URL.
 
